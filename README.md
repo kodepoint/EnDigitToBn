@@ -1,3 +1,3 @@
 Simply just add the method to your project then call it like:
 
-MessageBox.show(enToBn("1234567890"));
+MessageBox.show(cnDgt("1234567890"));
